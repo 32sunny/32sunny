@@ -1,7 +1,7 @@
- <p>Hello, I'm <h1>sunny 👋<h1></p>
+ <h1>Hello, I'm sunny 👋</h1>
 
 ## 👤 About Me 
-  liA dynamic full-stack web developer with expertise in building scalable appcations using modern technologies like JavaScript, React.js, and Node.js. Known for a passion for problem-solving, a collaborative approach, and thriving in high-pressure environments with complex technical challenges. Proficient in integrating cutting-edge technologies and staying updated with emerging tools, frameworks, and best practices. Outside of professional commitments, I enjoy continuous learning and personal projects to explore new technologies.
+ Hi, I'm  dynamic full-stack web developer with expertise in building scalable applications using modern technologies like JavaScript, React.js, and Node.js. Known for a passion for problem-solving, a collaborative approach, and thriving in high-pressure environments with complex technical challenges. Proficient in integrating cutting-edge technologies and staying updated with emerging tools, frameworks, and best practices. Outside of professional commitments, I enjoy continuous learning and personal projects to explore new technologies.
 
 ---
 
@@ -22,15 +22,14 @@
  🎨 Figma            🌟🌟🌟 
  🚀 Vercel & Netlify 🌟🌟🌟
 
+
+
+
 ---
 
 ## 📈 Projects
-
----
-
-## 📈 Projects
-1. *Project Name*: E-commerce
-2. *Project Name*:  Responsive Portfolio
+1. *Project Name*: SHRE(Sweet Home Real Estate)  :https://easy-buy-or-rent.netlify.app
+2. *Project Name*:  Responsive Portfolio : https://silver-sawine-cacb3f.netlify.app/
 
 
 
