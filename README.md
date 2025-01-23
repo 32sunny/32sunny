@@ -42,11 +42,6 @@ experience.
  <h3>Description:</h3> Developed a responsive portfolio website using React and Chakra UI, ensuring optimal performance across all devices.
 Implemented interactive features such as project galleries and animations to enhance user engagement.
 
-
-## 📚 Education
-- *Degree* in *B.com* from *GGNIMT Ludhiana*  
-  _Year of Graduation 2024  
-
 ---
 
 ## 🔎 Find Me Online
