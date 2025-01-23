@@ -50,5 +50,6 @@ Implemented interactive features such as project galleries and animations to enh
 
 ## 🔎 Find Me Online
 - *LinkedIn*:https://www.linkedin.com/in/sunny-mourya-a5a22a326/
-- *Portfolio*: https://silver-sawine-cacb3f.netlify.app/
+- *Portfolio* : https://dynamic-taffy-c04bd6.netlify.app/	
+
 - *Email*: sunnymourya5214@gmail.com
