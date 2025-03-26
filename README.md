@@ -37,7 +37,8 @@ Designed a form-friendly UI ensuring smooth user
 interactions.
 Utilized Firebase to manage data, enabling a seamless user
 experience.
-<h3>2. Project Name <h3/>:  Responsive Portfolio : https://dynamic-taffy-c04bd6.netlify.app/	
+
+<h3>2. Project Name <h3/>:  Responsive Portfolio : https://coruscating-florentine-945198.netlify.app/
 
  <h3>Description:</h3> Developed a responsive portfolio website using React and Chakra UI, ensuring optimal performance across all devices.
 Implemented interactive features such as project galleries and animations to enhance user engagement.
@@ -46,6 +47,6 @@ Implemented interactive features such as project galleries and animations to enh
 
 ## 🔎 Connect with me
 - *LinkedIn*:https://www.linkedin.com/in/sunny-mourya-a5a22a326/
-- *Portfolio* : https://dynamic-taffy-c04bd6.netlify.app/	
+- *Portfolio* : https://coruscating-florentine-945198.netlify.app/
 
 - *Email*: sunnymourya5214@gmail.com
