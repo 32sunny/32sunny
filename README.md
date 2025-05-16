@@ -47,6 +47,6 @@ Implemented interactive features such as project galleries and animations to enh
 
 ## 🔎 Connect with me
 - *LinkedIn*:https://www.linkedin.com/in/sunny-mourya-a5a22a326/
-- *Portfolio* : https://coruscating-florentine-945198.netlify.app/
+- *Portfolio* : https://32sunny.github.io/
 
 - *Email*: sunnymourya5214@gmail.com
