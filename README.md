@@ -1,52 +1,76 @@
-  <h1>Hello, I'm Sunny 👋</h1>
-
-## 👤 About Me 
- Hi, I'm  dynamic full-stack web developer with expertise in building scalable applications using modern technologies like JavaScript, React.js, and Node.js. Known for a passion for problem-solving, a collaborative approach, and thriving in high-pressure environments with complex technical challenges. Proficient in integrating cutting-edge technologies and staying updated with emerging tools, frameworks, and best practices. Outside of professional commitments, I enjoy continuous learning and personal projects to explore new technologies.
+<h1 align="center">Hello, I'm Sunny 👋</h1>
+<h3 align="center">🚀 Full Stack Web Developer | React | Node.js | MongoDB</h3>
 
 ---
 
-#### 💻 Tech Stack
+## 👤 About Me  
 
-| Technology      |
-|----------------------|
- 🌐 HTML5 & CSS3     🌟🌟🌟🌟🌟 
- 💻 JavaScript       🌟🌟🌟🌟🌟 
- ⚛️ React.js         🌟🌟🌟🌟🌟 
- 🌐 Node.js          🌟🌟🌟🌟🌟 
- 📊 MongoDB          🌟🌟🌟🌟🌟 
- 🔥 Firebase         🌟🌟🌟🌟 
- 🗄️ MySQL            🌟🌟🌟🌟 
- 🎨 TailwindCSS      🌟🌟🌟 
- 🎯 Chakra UI        🌟🌟🌟🌟 
- 🛠️ GitHub           🌟🌟🌟🌟 
- 🎨 Figma            🌟🌟🌟 
- 🚀 Vercel & Netlify 🌟🌟🌟
+Hi, I'm **Sunny**, a dynamic **Full Stack Web Developer** skilled in building scalable and modern web applications using technologies like **JavaScript, React.js, Node.js, and MongoDB**.  
 
+I’m passionate about **problem-solving**, enjoy working in collaborative environments, and thrive under pressure while solving complex technical challenges. I always stay updated with the latest tools, frameworks, and best practices in web development.  
 
-
+Outside of coding, I love exploring new technologies and working on personal projects to enhance my skills.  
 
 ---
 
-## 📈 Projects
-<h3>1. Project Name</h3><h3>: SHRE(Sweet Home Real Estate)</h3>:https://easy-buy-or-rent.netlify.app <br/>
-<h3>Discription:</h3> Created a modern real estate platform using React with
-focus on comfort and style.
-Implemented API integration along with filtering and sorti
-for easy property searches.
-Designed a form-friendly UI ensuring smooth user
-interactions.
-Utilized Firebase to manage data, enabling a seamless user
-experience.
+## 💻 Tech Stack  
 
-<h3>2. Project Name <h3/>:  Responsive Portfolio : https://coruscating-florentine-945198.netlify.app/
-
- <h3>Description:</h3> Developed a responsive portfolio website using React and Chakra UI, ensuring optimal performance across all devices.
-Implemented interactive features such as project galleries and animations to enhance user engagement.
+| Technology | Skill Level |
+|----------|------------|
+| 🌐 HTML5 & CSS3 | ⭐⭐⭐⭐⭐ |
+| 💻 JavaScript | ⭐⭐⭐⭐⭐ |
+| ⚛️ React.js | ⭐⭐⭐⭐⭐ |
+| 🌐 Node.js | ⭐⭐⭐⭐⭐ |
+| 📊 MongoDB | ⭐⭐⭐⭐⭐ |
+| 🔥 Firebase | ⭐⭐⭐⭐ |
+| 🗄️ MySQL | ⭐⭐⭐⭐ |
+| 🎨 Tailwind CSS | ⭐⭐⭐ |
+| 🎯 Chakra UI | ⭐⭐⭐⭐ |
+| 🛠️ Git & GitHub | ⭐⭐⭐⭐ |
+| 🎨 Figma | ⭐⭐⭐ |
+| 🚀 Vercel & Netlify | ⭐⭐⭐ |
 
 ---
 
-## 🔎 Connect with me
-- *LinkedIn*:https://www.linkedin.com/in/sunny-mourya-a5a22a326/
-- *Portfolio* : https://32sunny.github.io/
+## 📈 Projects  
 
-- *Email*: sunnymourya5214@gmail.com
+### 🏡 SHRE (Sweet Home Real Estate)  
+🔗 Live Demo: https://easy-buy-or-rent.netlify.app  
+
+📌 **Description:**  
+A modern real estate platform built using **React.js**, designed with a focus on comfort and user-friendly UI.  
+It includes **API integration**, advanced **filtering and sorting**, and smooth property search features.  
+Firebase is used for real-time data management, ensuring a seamless and fast user experience.  
+
+✅ Features:  
+- Property filtering & sorting  
+- API integration  
+- Form-friendly UI design  
+- Firebase real-time data sync  
+
+---
+
+### 🌐 Responsive Portfolio Website  
+🔗 Live Demo: https://coruscating-florentine-945198.netlify.app/  
+
+📌 **Description:**  
+A responsive portfolio website built with **React.js** and **Chakra UI**, optimized for mobile, tablet, and desktop devices.  
+Includes interactive project sections, animations, and a clean modern UI to improve user engagement.  
+
+✅ Features:  
+- Fully responsive layout  
+- Smooth UI/UX design  
+- Interactive animations  
+- Project showcase gallery  
+
+---
+
+## 🔎 Connect with Me  
+
+📌 **LinkedIn:** https://www.linkedin.com/in/sunny-mourya-a5a22a326/  
+🌍 **Portfolio:** https://32sunny.github.io/  
+📧 **Email:** sunnymourya5214@gmail.com  
+
+---
+
+⭐ *If you like my work, feel free to connect and collaborate!*  
